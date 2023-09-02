@@ -16,6 +16,7 @@ git clone https://github.com/Madhav2133/mobile_robot_system.git
 Build and source the workspace:
 
 ```
+cd ..
 catkin_make && source ~/ros_ws/devel/setup.bash
 ```
 
