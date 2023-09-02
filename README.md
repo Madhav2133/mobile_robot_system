@@ -26,6 +26,10 @@ Launch the robot into the gazebo simulation using the following command:
 roslaunch mobile_robot_system display.launch
 ```
 
+@TODO:
+
+Collision Detection Implementation
+
 ## References
 
 - <a href="https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#gazebo-simulation">TurtleBot3 </a> - For environments
