@@ -7,10 +7,14 @@ CollisionSystem::CollisionSystem() {
 
 void CollisionSystem::scanCallback(
     const sensor_msgs::LaserScan::ConstPtr& scan_msg) {
-  std::cout << "0: " << scan_msg->ranges[0] << std::endl;
-  std::cout << "90: " << scan_msg->ranges[90] << std::endl;
-  std::cout << "180: " << scan_msg->ranges[180] << std::endl;
-  std::cout << "270: " << scan_msg->ranges[270] << std::endl;
+  // front
+  std::cout << "Front: " << scan_msg->ranges[0] << std::endl;
+  // back
+  std::cout << "Back: " << scan_msg->ranges[180] << std::endl;
+  // left
+  std::cout << "Left: " << scan_msg->ranges[90] << std::endl;
+  // right
+  std::cout << "Right: " << scan_msg->ranges[270] << std::endl;
 
   std::cout << "\n---\n" << std::endl;
 }
