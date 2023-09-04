@@ -26,6 +26,12 @@ Launch the robot into the gazebo simulation using the following command:
 roslaunch mobile_robot_system display.launch
 ```
 
+To observe the sensor output:
+
+```
+rosrun mobile_robot_system collision_system
+```
+
 @TODO:
 
 Collision Detection Implementation
@@ -34,4 +40,4 @@ Collision Detection Implementation
 
 - <a href="https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#gazebo-simulation">TurtleBot3 </a> - For environments
 - Mobile Robot URDF - Google
-- Gazebo Plugins
+- Gazebo Plugins - <a href="https://classic.gazebosim.org/tutorials?tut=add_laser&cat=build_robot#AddingaLaser">Hokuyo Sensor</a>
