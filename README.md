@@ -4,11 +4,7 @@ This is an implementation of collision detection and obstacle avoidance system f
 
 Here's a short video demonstration:
 
-
-
 https://github.com/Madhav2133/mobile_robot_system/assets/77204759/8c18b056-a594-4a90-8c56-a8c10330db92
-
-
 
 ## Implementation
 
