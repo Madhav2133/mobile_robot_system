@@ -4,7 +4,7 @@ This is an implementation of collision detection and obstacle avoidance system f
 
 Here's a short video demonstration:
 <br>
-[![Watch the video](https://youtu.be/UbxiYil5CPc?si=0xY1Q7wkuQWSWP0e)](https://youtu.be/UbxiYil5CPc?si=0xY1Q7wkuQWSWP0e)
+[![Demonstration Video](https://img.youtube.com/vi/UbxiYil5CPc?si=0xY1Q7wkuQWSWP0e/0.jpg)](https://youtu.be/UbxiYil5CPc?si=0xY1Q7wkuQWSWP0e)
 
 ## Implementation
 
