@@ -1,6 +1,10 @@
 # Mobile Robot System
 
-This is an implementation of collision detection and feedback system for a mobile robot inside few environments.
+This is an implementation of collision detection and obstacle avoidance system for a mobile robot inside few environments.
+
+Here's a short video demonstration:
+<br>
+[![Watch the video](https://youtu.be/UbxiYil5CPc?si=0xY1Q7wkuQWSWP0e)](https://youtu.be/UbxiYil5CPc?si=0xY1Q7wkuQWSWP0e)
 
 ## Implementation
 
@@ -31,10 +35,6 @@ To observe the sensor output:
 ```
 rosrun mobile_robot_system collision_system
 ```
-
-@TODO:
-
-Collision Detection Implementation
 
 ## References
 
