@@ -38,6 +38,7 @@ rosrun mobile_robot_system collision_system
 
 ## References
 
+- Documentation: https://drive.google.com/file/d/1x1dzof_WmjImD5x52IbujKgovvwIl1-h/view?usp=sharing
 - <a href="https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#gazebo-simulation">TurtleBot3 </a> - For environments
 - Mobile Robot URDF - Google
 - Gazebo Plugins - <a href="https://classic.gazebosim.org/tutorials?tut=add_laser&cat=build_robot#AddingaLaser">Hokuyo Sensor</a>
